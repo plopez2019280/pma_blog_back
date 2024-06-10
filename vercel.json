@@ -1,6 +1,5 @@
 {
     "version":2,
-    "name": "Blog_PL",
     "builds":[{
         "src":"server.js",
         "use":"@vercel/node"
